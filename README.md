@@ -30,22 +30,22 @@ It features a stylish UI, product showcase, blog/news section, and a functional 
 ## 📸 Screenshots  
 
 ### 🏠 Homepage
-![Homepage](screenshots/homePage.png)  
+![Homepage](eCommerceWeb/screenshots/homePage.png)  
 
 ### 🛍️ Category / Collection Section
-![Collection Section](screenshots/CollectionPage.png)  
+![Collection Section](eCommerceWeb/screenshots/CollectionPage.png)  
 
 ### 🛒 Product Section
-![Product Section](screenshots/productPage.png)  
+![Product Section](eCommerceWeb/screenshots/productPage.png)  
 
 ### 📌 Secondary Navbar Section
-![Secondary Navbar](screenshots/secondNavbar.png)  
+![Secondary Navbar](eCommerceWeb/screenshots/secondNavbar.png)  
 
 ### 🔥 Trend Section
-![Trend Section](screenshots/trend.png)  
+![Trend Section](eCommerceWeb/screenshots/trend.png)  
 
 ### 🌟 Featured Trend Image
-![Trend Image](screenshots/trendImg.png)  
+![Trend Image](eCommerceWeb/screenshots/trendImg.png)  
 
 
 🔮 Future Improvements
